@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @Coffettaja
- Sign out
- Watch 2,033
-  Star 49,260
-  Fork 20,797 github/gitignore
- Code  Pull requests 129  Projects 0  Pulse  Graphs
-Branch: master Find file Copy pathgitignore/Unity.gitignore
-2d4695b  on Mar 11
-@bbodenmiller bbodenmiller remove extra line
-16 contributors @mviranyi @ahmyi @ahmedbaracat @tim-hub @Tandoori @taeminhong @rpistorello @rogersachan @jstasiak @jephir @ChemiKhazi @Frozenfire92 @cl4rke @shiftkey @bbodenmiller @vvolkgang
-RawBlameHistory     
-35 lines (29 sloc)  422 Bytes
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -50,5 +32,3 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help
